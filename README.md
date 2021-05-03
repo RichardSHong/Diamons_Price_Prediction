@@ -37,9 +37,9 @@ Here's the link to the dataset: https://www.kaggle.com/shivam2503/diamonds
 ----------------------------------------------------------------------
 0.4 Folder Contents
 
-dsci631_group_project_group5.ipynb	   Project code
+dsci631_group_project_group5.ipynb	---   Project code
 
-diamonds.csv				   Dataset used in project
+diamonds.csv		---		   Dataset used in project
 
 ----------------------------------------------------------------------
 
