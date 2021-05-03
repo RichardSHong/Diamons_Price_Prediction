@@ -5,10 +5,12 @@ Title: Diamond Price Prediction
 ----------------------------------------------------------------------
 
 README CONTENTS
-0.1 Group Information
-0.2 Use
-0.3 Data information
-0.4 Folder Contents
+
+1. Group Information
+2. USE
+3. Data information
+4. Folder Contents
+
 
 
 ----------------------------------------------------------------------
