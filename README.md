@@ -41,8 +41,5 @@ dsci631_group_project_group5.ipynb	   Project code
 
 diamonds.csv				   Dataset used in project
 
-project_presentation.pdf		   Slides in pdf format
-
-project_presentation.pptx		   Slides in powerpoint presentation format
 ----------------------------------------------------------------------
 
